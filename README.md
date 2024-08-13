@@ -1,3 +1,3 @@
-Udemy Tutorial for restaurant sample complted.
+Foot Listing App using React Native.
 
 Basic Food Listing App with Horizontal FLat list.
